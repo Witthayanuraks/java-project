@@ -1,4 +1,4 @@
-# *JAVA PROJECT *#
+## *JAVA PROJECT *
 by? me and the tools can make me dizzy tbh
 
 {
@@ -222,14 +222,16 @@ Aplikasi ini memiliki dua versi:
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/repo-name.git
+    ```
 
 2. cd repo-name
 3. Compile and run 
   ```bash
   javac SistemPeminjamanBuku.java
   java SistemPeminjamanBuku.java
+ ```
 
-# VERSI GUI #
+# VERSI GUI 
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/repo-name.git
@@ -267,6 +269,7 @@ Ini adalah aplikasi sederhana yang mensimulasikan chatting antara pengguna dan b
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/repo-name.git
+    ```
 2. cd repo-name
 3. Run the file 
   javac ChatSimulation.java
