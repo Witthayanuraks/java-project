@@ -1,4 +1,4 @@
-## *JAVA PROJECT *
+## JAVA PROJECT 
 by? me and the tools can make me dizzy tbh
 
 {
